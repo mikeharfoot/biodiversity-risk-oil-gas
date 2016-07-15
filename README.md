@@ -1,2 +1,2 @@
-# Present and near-future biodiversity risks from oil and gas exploitation
-Code used for analysing biodiversity risks from present and future oil and gas exploitation
+# Present and future biodiversity risks from fossil fuel exploitation
+Code used for identifying High Risk Fields - unexploited oil and gas fields, with high biodiversity values, that are at high risk of exploitation - using random forests.
